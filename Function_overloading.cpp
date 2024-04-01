@@ -2,7 +2,8 @@
 #include<iostream>
 using namespace std;
  class figure
- {int side,length,breadth,radius; 
+ {
+ int side,length,breadth,radius; 
     double pi;
  	public:
  		void area(int s)
